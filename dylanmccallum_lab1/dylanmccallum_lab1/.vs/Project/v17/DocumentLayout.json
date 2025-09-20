@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_250_projects\\dylanmccallum_lab1\\Project_sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Github\\cis_250_projects\\dylanmccallum_lab1\\Project_sample\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dyln2\\Downloads\\AddTwo.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dyln2\\Downloads\\main1 (1).asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddTwo.asm",
+              "DocumentMoniker": "C:\\Users\\dyln2\\Downloads\\AddTwo.asm",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\dyln2\\Downloads\\AddTwo.asm",
+              "ToolTip": "C:\\Users\\dyln2\\Downloads\\AddTwo.asm",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\dyln2\\Downloads\\AddTwo.asm",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-20T05:04:55.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main1 (1).asm",
+              "DocumentMoniker": "C:\\Users\\dyln2\\Downloads\\main1 (1).asm",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\dyln2\\Downloads\\main1 (1).asm",
+              "ToolTip": "C:\\Users\\dyln2\\Downloads\\main1 (1).asm",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\dyln2\\Downloads\\main1 (1).asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-20T05:03:02.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Github\\cis_250_projects\\dylanmccallum_lab1\\Project_sample\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Github\\cis_250_projects\\dylanmccallum_lab1\\Project_sample\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-20T02:44:03.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
