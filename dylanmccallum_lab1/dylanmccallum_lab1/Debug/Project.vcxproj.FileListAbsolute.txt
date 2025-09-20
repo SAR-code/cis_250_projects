@@ -1,1 +1,2 @@
 C:\Github\cis_250_projects\dylanmccallum_lab1\Project_sample\Debug\ASM_Project.exe
+C:\Github\cis_250_projects\dylanmccallum_lab1\dylanmccallum_lab1\Debug\ASM_Project.exe
